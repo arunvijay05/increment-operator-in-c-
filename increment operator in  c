@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main(){
+    int x = 24,y;
+    y =x++;
+    printf("This is the value of x %d and the value of y is %d",x,y);
+
+}
